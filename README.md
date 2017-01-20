@@ -16,7 +16,7 @@ Dit is een library omdat je hem aan kan roepen als externe javascript file en ve
 
 ## Demo
 
-[Demo library(Schrik niet van de prompt:) )](http://www.tommygijsberts.nl/portfoliodp/frameworks.html)
+(http://www.tommygijsberts.nl/portfoliodp/frameworks.html)
 
 #### Installatie
 
